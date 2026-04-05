@@ -37,6 +37,16 @@ To ensure data integrity, consistency, and correctness during ETL transformation
 * pytest
 
 ---
+## 🐞 Bugs Identified
+- Duplicate records found in source dataset
+- Row count mismatch between source and target
+
+## 🧠 How It Works
+
+1. Load source and target data using pandas  
+2. Run validation tests using pytest  
+3. Detect data issues like duplicates and mismatches  
+4. Generate test results and report  
 
 ## ▶️ How to Run
 
