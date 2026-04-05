@@ -54,6 +54,9 @@ python -m pytest -v --html=report.html --self-contained-html
 * Null check: PASSED
 * Transformation test: PASSED
 
+  <img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/5e7a3a0b-a608-4268-bf44-c074514983e4" />
+
+
 ---
 
 ## 🧠 Key Learnings
