@@ -1,5 +1,11 @@
-id,name,age
-1,John,25
-2,Alice,30
-3,Bob,22
-4,John,25
+id,name,age,department,salary,hire_date
+1,Alice Johnson,32,Engineering,95000,2021-03-15
+2,Bob Smith,28,Marketing,67000,2022-07-01
+3,Carol White,45,Engineering,112000,2019-11-20
+2,Bob Smith,28,Marketing,67000,2022-07-01
+4,David Brown,,Sales,54000,2023-01-10
+5,Eve Davis,31,Engineering,98000,2021-06-30
+6,Frank Miller,29,Marketing,71000,2022-03-18
+7,,38,Sales,61000,2020-09-05
+8,Hannah Wilson,52,Engineering,125000,2018-04-22
+9,Ian Taylor,26,Sales,,2023-08-15
